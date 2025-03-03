@@ -1,68 +1,67 @@
-# Astro Starter Kit: Blog
+# 👋 Welcome to My Tech Blog
 
-```sh
-npm create astro@latest -- --template blog
+Hi! I'm a Salesforce Mulesoft Developer passionate about building scalable integration solutions and sharing knowledge with the tech community.
+
+## 🚀 About This Blog
+
+This is my personal space where I share insights, experiences, and knowledge about:
+
+- 🔷 Salesforce Development & Best Practices
+- 🔗 Mulesoft Integration Patterns
+- 🌐 API Design and Implementation
+- 💡 Integration Architecture
+- 🛠️ Technical Tutorials & Guides
+
+## 🛠️ Tech Stack
+
+This blog is built with:
+
+- [Astro](https://astro.build) - For blazing-fast performance
+- TypeScript - For type-safe development
+- Markdown/MDX - For content management
+- Modern CSS - For responsive design
+
+## 📚 Latest Blog Posts
+
+Check out my latest articles in the blog section! Topics include:
+
+- Salesforce Integration Patterns
+- Mulesoft Development Tips
+- API Best Practices
+- Learning AI
+- Using AI Tech Tips
+- Integration Success Stories
+- Technical Tutorials
+
+## 🔧 Local Development
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## 📫 Connect With Me
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- 💼 [LinkedIn](https://www.linkedin.com/in/aravindavi/)
+- 📝 [Blog](https://aravindcm.dev))     <!-- WIP -->
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## 🤝 Contributing
 
-Features:
+Found a bug or want to suggest content? Feel free to:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+1. Open an issue
+2. Submit a pull request
+3. Reach out to me directly
 
-## 🚀 Project Structure
+## 📝 License
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+This blog is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
