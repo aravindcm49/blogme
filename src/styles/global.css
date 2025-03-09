@@ -43,10 +43,10 @@ body {
 	line-height: 1.7;
 }
 main {
-	width: 720px;
-	max-width: calc(100% - 2em);
+	width: 960px;
+	max-width: calc(100% - 1em);
 	margin: auto;
-	padding: 3em 1em;
+	padding: 2em 0.5em;
 }
 h1,
 h2,
@@ -120,13 +120,16 @@ code {
 	padding: 2px 5px;
 	background-color: rgb(var(--gray-light));
 	border-radius: 2px;
+	font-size: 0.9em;
 }
 pre {
-	padding: 1.5em;
+	padding: 1em;
 	border-radius: 8px;
+	margin: 1em 0;
 }
 pre > code {
 	all: unset;
+	font-size: 0.85em;
 }
 blockquote {
 	border-left: 4px solid var(--accent);
