@@ -16,3 +16,5 @@ heroImage: '/blog-placeholder-2.jpg'
 
 - [ ] Auth
 - [ ] Leaderboads
+
+> THIS PAGE IS WIP.
