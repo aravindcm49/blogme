@@ -3,7 +3,7 @@ title: 'Bookmarklet and usage within Salesforce Org'
 slug: 'sf-org-bookmarklets'
 description: 'tools that I use with orgs to save time'
 pubDate: 'Mar 01 2025'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/blog/bookmarklets/bookmarklets.png'
 ---
 
 Book *MARKS* are usually links, but Book *MARKLETS* are IIFE that excutes small code prefixed with `javascript:`.
