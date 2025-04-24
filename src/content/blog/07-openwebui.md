@@ -3,7 +3,7 @@ title: 'OpenWebUI'
 slug: 'openwebui'
 description: 'checking out rag based on coding garden video'
 pubDate: 'Mar 15 2025'
-heroImage: '/blog/openwebui/chat.png'
+heroImage: '../../assets/images/blog/openwebui/chat.png'
 ---
 
 [OpenWebUI](https://github.com/open-webui/open-webui) is an Open Source alternative to ChatGPT.

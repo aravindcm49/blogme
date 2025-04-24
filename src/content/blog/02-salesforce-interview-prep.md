@@ -3,7 +3,7 @@ title: 'Salesforce Interview Prep'
 slug: 'sf-interview-prep'
 description: 'scratchpad for salesforce interview prep'
 pubDate: 'Mar 05 2025'
-heroImage: '/blog/sf-int-prep/intprep.png'
+heroImage: '../../assets/images/blog/sf-int-prep/intprep.png'
 ---
 
 ## SOQL Example
