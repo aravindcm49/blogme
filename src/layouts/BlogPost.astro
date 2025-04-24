@@ -4,6 +4,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import { Image } from 'astro:assets';
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -59,7 +60,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
+					{/* 
+					  Switched to Astro's <Image /> component for optimization.
+					  Note: <Image /> requires a static import for the src prop.
+					  If heroImage is a string path (not a static import), this may not work as intended.
+					*/}
+					{heroImage && <Image src={heroImage} width={1020} height={510} alt="" />}
 				</div>
 				<div class="prose">
 					<div class="title">

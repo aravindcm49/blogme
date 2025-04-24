@@ -3,7 +3,7 @@ title: 'Gamify Apex Functions'
 slug: 'apex-fns-game'
 description: 'game to guess the syntax and example for apex methods'
 pubDate: 'Mar 05 2025'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '../../assets/images/blog-placeholder-2.jpg'
 ---
 
 ## Plan
